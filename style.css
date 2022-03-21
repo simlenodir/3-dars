@@ -1,0 +1,136 @@
+/* *{
+    margin: 0 auto;
+    padding: 0 auto;
+    list-style-type: none;
+} */
+
+body{
+    font-family: 'Poppins', "Arial", sans-serif;
+    font-weight: 400;
+    font: size 20px; ;
+    
+    font-weight: normal;
+}
+
+
+ul{
+    list-style: none;
+}
+
+
+.bulink{
+    text-decoration: none;
+    color: black;
+}
+.getstarted{
+    text-decoration: none;
+    font-size: 36px;
+    color: white;
+    background-color: #263238;
+    padding: 10px;
+    border-radius: 10px;
+}
+.Learnmore{
+    display: inline-block;
+    /* padding: 50px; */
+    text-decoration: none;
+    color: white ;
+    background-color: black;
+    padding: 10px;
+    border-radius: 10px ;
+    color: white;
+    
+}
+.subscribe  {
+    color: white;
+    padding: 10px    ;
+    background-color: black;
+    border-radius: 10px;
+    text-decoration: none;
+}
+.logo{
+    width: 104px;
+    height: 29px;
+    font-size: 36px;
+    font-family: popins ;
+    font-size: medium;
+}
+.let{
+    font-family: popins;
+    font-size: 24px;
+    width: 104px;
+    height: 29px;
+    font-weight: 400;
+    font-weight: normal;
+    text-decoration: none;
+    padding: 10px;
+    background-color: white;
+}
+.word{
+    font-family: popins;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 27px;
+    color: #8F95A5;
+}
+.any{
+    
+    font-family: popins;
+    font-size: 640;
+    font-weight: 600;
+    line-height: 80px;
+    color: black;
+}
+.ab{
+    font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 80px;
+Width : 124px;
+color: black;
+width: 269px;
+height: 80px;
+left: 700px;
+
+}
+.about{
+    font-family: popins;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+line-height: 80px;
+color:#0000 ;
+}
+.info{
+    font-family: popins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 80px;
+    color: #2a3246;
+}
+.pul{
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 48px;
+    color: #263238;
+}
+.enter{
+    font-size: 16px;
+    line-height: 24px;
+    color: #8F95A5;
+}
+.term{
+    font-size: 24px;
+    line-height: 36px;
+    color: #8F95A5;
+}
+.brit2{
+    font-size: 36px;
+    line-height: 54px;
+}
+
+
+
+
